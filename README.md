@@ -1,4 +1,4 @@
-# microgreen-news
+# microgreen-news mobile app
 ```
 Mobile app for making photo notes.
 ```
