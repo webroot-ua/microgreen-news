@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "microgreen-news",
+    "slug": "microgreen-news",
+    "version": "1.0.4",
+    "orientation": "default",
+    "icon": "./assets/rn-icon.png",
+    "splash": {
+      "image": "./assets/rn-splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#1B5E20"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "news.microgreen.photonotes",
+      "buildNumber": "1.0.4"
+    },
+    "android": {
+      "package": "news.microgreen.photo_notes",
+      "versionCode": 5,
+      "permissions": ["CAMERA", "WRITE_EXTERNAL_STORAGE"]
+    }
+  }
+}
